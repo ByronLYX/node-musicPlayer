@@ -12,6 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "cnpm": "^6.0.0",
+    "express": "^4.16.4",
+    "leancloud-storage": "^3.13.0",
+    "leanengine": "^3.3.3"
   }
 }
